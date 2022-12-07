@@ -1,9 +1,9 @@
 {
      "privacy_url" : "https://sites.google.com/view/fannyioappsprivacy/",
     "GPOnlyTraffic" : "false",
-    "max_only" : "true",
+    "max_only" : "false",
     "max_banner_enable" : "false",
-    "max_inter_enable" : "true",
+    "max_inter_enable" : "false",
     "max_native_enable" : "false",
     "max_banner_id": "",
     "max_inter_id": "d7cdf0c4b20a06bd",
