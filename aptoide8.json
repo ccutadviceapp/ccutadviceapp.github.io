@@ -1,5 +1,5 @@
 {
-     "privacy_url" : "",
+     "privacy_url" : "https://sites.google.com/view/rodvappsprivacy/"
     "GPOnlyTraffic" : "false",
     "max_only" : "false",
     "tapdaq_only" : "false",
@@ -9,13 +9,6 @@
     "max_banner_id": "",
     "max_inter_id": "",
     "max_native_id": "",
-    "tapdaq_banner_enable" : "false",
-    "tapdaq_inter_enable" : "false",
-    "tapdaq_app_id": "61cf2c7f86c31c4e07c115eb",
-    "tapdaq_client_key": "3d8655a9-7fb6-4998-ade3-907c3ea9fafe",
-    "tapdaq_placement_tag_banner": "default",
-    "tapdaq_placement_tag_inter": "default",
-    "tapdaq_ads_auto_reload" : "false",
     "interstitial_step":"1",
     "update_active" : "false",
     "updateTITLE" : "Fall Guys - New Version",
