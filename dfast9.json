@@ -1,12 +1,12 @@
 {
-     "privacy_url" : "https://sites.google.com/view/rodvappsprivacy/"
+     "privacy_url" : "https://sites.google.com/view/rodvappsprivacy/",
     "GPOnlyTraffic" : "false",
-    "max_only" : "false",
-    "max_banner_enable" : "false",
-    "max_inter_enable" : "false",
+    "max_only" : "true",
+    "max_banner_enable" : "true",
+    "max_inter_enable" : "true",
     "max_native_enable" : "false",
-    "max_banner_id": "",
-    "max_inter_id": "",
+    "max_banner_id": "ecf415bfe815a364",
+    "max_inter_id": "2c7e393df71b6efb",
     "max_native_id": "",
     "interstitial_step":"1",
     "update_active" : "false",
