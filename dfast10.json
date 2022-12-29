@@ -1,12 +1,12 @@
 {
-     "privacy_url" : "https://sites.google.com/view/sontenyamprivacypolicy/"
+     "privacy_url" : "https://sites.google.com/view/sontenyamprivacypolicy/",
     "GPOnlyTraffic" : "false",
-    "max_only" : "false",
-    "max_banner_enable" : "false",
-    "max_inter_enable" : "false",
+    "max_only" : "true",
+    "max_banner_enable" : "true",
+    "max_inter_enable" : "true",
     "max_native_enable" : "false",
-    "max_banner_id": "",
-    "max_inter_id": "",
+    "max_banner_id": "0f16b5ca83d6d54b",
+    "max_inter_id": "56c89281538d399b",
     "max_native_id": "",
     "interstitial_step":"1",
     "update_active" : "false",
