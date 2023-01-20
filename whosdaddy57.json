@@ -1,12 +1,12 @@
 {
-    "privacy_url" : "https://sites.google.com/view/fortapppriavcyapps/"
-    "GPOnlyTraffic" : "false",
+    "privacy_url" : "https://sites.google.com/view/fortapppriavcyapps/",
+    "GPOnlyTraffic" : "true",
     "max_only" : "false",
-    "fb_only" : "false",
+    "fb_only" : "true",
     "fb_banner_enable" : "false",
-    "fb_inter_enable" : "false",
-    "fb_native_enable" : "",
-    "fb_inter_id": "",
+    "fb_inter_enable" : "true",
+    "fb_native_enable" : "false",
+    "fb_inter_id": "1248269409459906_1248269642793216",
     "fb_native_id": "",
     "fb_banner_id": "",
     "max_banner_enable" : "false",
