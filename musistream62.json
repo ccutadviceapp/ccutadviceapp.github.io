@@ -1,7 +1,7 @@
 {
-    "privacy_url" : "https://sites.google.com/view/linaceprivacy/",
+    "privacy_url" : "https://sites.google.com/view/linaceprivacy/"
     "GPOnlyTraffic" : "false",
-    "max_only" : "true",
+    "max_only" : "false",
     "fb_only" : "false",
     "fb_banner_enable" : "false",
     "fb_inter_enable" : "false",
@@ -9,8 +9,8 @@
     "fb_inter_id": "",
     "fb_native_id": "",
     "fb_banner_id": "",
-    "max_banner_enable" : "true",
-    "max_inter_enable" : "true",
+    "max_banner_enable" : "false",
+    "max_inter_enable" : "false",
     "max_native_enable" : "false",
     "max_banner_id": "305cda769ece1cad",
     "max_inter_id": "f8e9a949de1d077d",
