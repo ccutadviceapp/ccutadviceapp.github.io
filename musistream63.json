@@ -1,10 +1,10 @@
 {
-    "privacy_url" : "https://sites.google.com/view/linaceprivacy/",
+    "privacy_url" : "https://sites.google.com/view/linaceprivacy/"
     "GPOnlyTraffic" : "true",
     "max_only" : "false",
-    "fb_only" : "true",
+    "fb_only" : "false",
     "fb_banner_enable" : "false",
-    "fb_inter_enable" : "true",
+    "fb_inter_enable" : "false",
     "fb_native_enable" : "false",
     "fb_inter_id": "916826149487463_916829186153826",
     "fb_native_id": "",
